@@ -1,0 +1,7 @@
+.rd-navbar-main-element{
+    direction: rtl;
+}
+.rd-navbar-static .rd-nav-link{
+    font-size: 40px;
+    padding: 10px;
+}
